@@ -9,7 +9,7 @@ $(document).ready(function(){
 
       $.ajax({
         type: 'POST',
-        url: '/niceSurvey',
+        url: '/WorksSurvey',
         data: $(this).serializeArray(),
         success: function(data){
           // do something with the data via front-end framework
