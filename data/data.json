@@ -1,0 +1,11 @@
+[{"why_visit":"To order food","count":1},{"visit":"To see the menu","count":1},{"visit":"To find a restaurant location","count":1},{"visit":"Other","count":1]
+
+[{"accomplish":"Yes","count":1}]
+
+[{"often_visit":"First time","count":1},{"often_visit":"Somewhat often","count":1},{"often_visit":"Very often","count":1}]
+
+[{"select_statement":"I was able to find everything I needed","count":1},{"select_statement":"I was unable to find everything I needed","count":1},{"select_statement":"The website was visually appealing","count":1},{"select_statement":"The website was not visually appealing","count":1}]
+
+[{"recommendation":"Strongly disagree","count":1},{"recommendation":"Somewhat disagree","count":1},{"recommendation":"Neutral","count":1},{"recommendation":"Somewhat agree","count":1},{"recommendation":"Strongly agree","count":1}]
+
+[{"comments":"Pleasant experience","count":1}]
