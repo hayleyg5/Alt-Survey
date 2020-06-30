@@ -1,0 +1,48 @@
+  
+//CSS File
+
+html {
+  background-color: white;
+}
+
+body {
+  background-color: white;
+  width: 600px;
+  border: 2px solid black;
+  padding: 0px 20px 20px 20px;
+  
+}
+
+.header img {
+  float: left;
+}
+
+.header h1 {
+  position: relative;
+  color: rgb(255, 140, 0);
+}
+
+.header h2 {
+  position: relative;
+}
+
+.statement {
+  color: red;
+}
+
+.question {
+  font-size: 18px;
+}
+
+.block {
+  display: block;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+}
+
+#signature {
+  text-align: left;
+  color: rgb(255, 140, 0);
+  font-style: italic;
+}
